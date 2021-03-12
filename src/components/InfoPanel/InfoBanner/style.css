@@ -1,0 +1,9 @@
+.InfoBanner {
+    position: absolute;
+    top: 0;
+    left: 10px;
+
+    width: 85px;
+
+    z-index: 1;
+}

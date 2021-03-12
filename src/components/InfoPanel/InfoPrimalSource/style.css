@@ -1,0 +1,18 @@
+.InfoPrimalSource-overlay {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 0;
+    pointer-events: none;
+}
+
+.InfoPrimalSource {
+    width: 200px;
+    filter: blur(7px);
+}

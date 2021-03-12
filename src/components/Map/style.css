@@ -1,0 +1,78 @@
+.map-appear-enter #mapCircleMask {
+    animation: show-map 2s ease-in-out 2s 1 normal forwards;
+}
+.map-appear-enter #mapStrokeCircleMask {
+    animation: show-map-stroke-mask 4s ease-in-out 0s 1 normal forwards;
+}
+.map-appear-enter .Map-Region {
+    animation: hide-map-stroke 4s ease-in-out 0s 1 normal forwards;
+}
+
+.map-appear-enter-done #mapCircleMask,
+.map-appear-enter-done #mapStrokeCircleMask {
+    animation: none;
+    r: 600px;
+}
+.map-appear-enter-done #strokeImage image {
+    mask: none;
+}
+.map-appear-enter-done .Map-Region {
+    opacity: 0;
+    fill: url(#mapRegionGradientBackground);
+    transition: .2s ease-in-out;
+    animation: none;
+}
+.map-appear-enter-done .Map-Region:hover {
+    opacity: 1;
+}
+
+.Map-Region {
+    fill: transparent;
+    stroke: none;
+    stroke-width: 2;
+    opacity: 0;
+    cursor: pointer;
+
+    stroke: url(#strokeImage);
+    filter: url(#glow);
+}
+
+@keyframes show-map {
+    from {
+        r: 0px;
+    }
+    to {
+        r: 600px;
+    }
+}
+@keyframes show-map-stroke-mask {
+    0% {
+        r: 0px;
+        opacity: 1;
+    }
+    80% {
+        r: 600px;
+        opacity: 1;
+    }
+    100% {
+        r: 600px;
+        opacity: 0;
+    }
+}
+@keyframes hide-map-stroke {
+    0% {
+        opacity: 1;
+    }
+    80% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+@media (max-aspect-ratio: 819 / 546) {
+    .Map {
+        height: 100%;
+    }
+}

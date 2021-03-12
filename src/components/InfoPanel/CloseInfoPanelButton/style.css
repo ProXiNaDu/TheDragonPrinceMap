@@ -1,0 +1,18 @@
+.CloseInfoPanelButton {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 6px;
+    
+    background: transparent;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    color: #eee;
+    text-shadow: 1px 1px 1px #111;
+
+    z-index: 3;
+}
+.CloseInfoPanelButton i {
+    width: 13px;
+}

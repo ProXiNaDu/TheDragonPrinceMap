@@ -1,0 +1,16 @@
+.InfoImage {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+
+    z-index: -1;
+}
+
+@media (max-width: 800px) {
+    .InfoImage {
+        position: relative;
+        box-shadow: 1px 0px 12px 3px #000a;
+        z-index: 2;
+    }
+}

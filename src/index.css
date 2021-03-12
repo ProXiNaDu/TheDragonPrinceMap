@@ -1,13 +1,30 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+html,
+body,
+#root {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  background: url("./StarSky.gif");
+
+  color: #eee;
+  text-shadow: 1px 1px 1px #111;
+
+  font-family: "Poppins", sans-serif;
+}
+
+@media (max-aspect-ratio: 819 / 546) {
+  html,
+  body,
+  #root {
+    height: 100%;
+    width: auto;
+    overflow: hidden;
+  }
+  #root {
+    overflow: scroll;
+  }
 }

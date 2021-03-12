@@ -1,0 +1,14 @@
+.InfoDescription {
+    margin: 0;
+    padding: 0 20px;
+    text-align: justify;
+
+    z-index: 1;
+}
+
+.InfoDescription-indent::before {
+    content: '';
+    width: 75px;
+    height: 150px;
+    float: left;
+}

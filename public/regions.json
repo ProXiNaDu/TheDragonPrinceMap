@@ -1,0 +1,115 @@
+{
+    "landDuren": {
+        "title": "Duren",
+        "description": "A lush nation considered the garden of the Human Kingdoms, Duren trades their unparalleled harvests with all the other kingdoms. Rainwater and snowmelt flow down from the mountains, bringing water to countless farms in the rolling, fertile plains of Duren. As the breadbasket of the Human Kingdoms, Duren is especially at risk from attack by any vengeful neighbors in Xadia.",
+        "wikiPageLink": "https://dragonprince.fandom.com/wiki/The_Human_Kingdoms#Duren",
+        "image": "images/Duren.jpg",
+        "bannerImage": "images/DurenFlag.png"
+    },
+    "landKatolis": {
+        "title": "Katolis",
+        "description": "Katolis is the largest of the five Human Kingdoms, both in size and military might. Its signature colors are red and gold, and its banner bears the kingdom’s seal, the uneven towers of Katolis Castle. As Katolis shares its border with Xadia, the kingdom has a long history of conflict and war with the magical lands to the east.",
+        "wikiPageLink": "https://dragonprince.fandom.com/wiki/Katolis",
+        "image": "images/Katolis.jpg",
+        "bannerImage": "images/KatolisFlag.png"
+    },
+    "landNeolandia": {
+        "title": "Neolandia",
+        "description": "Neolandia is a land shaped like an elephant that lies in the harsh, northern desert lands of the Human Kingdoms. A constant struggle to obtain water and food has borne a resourceful yet hierarchical civilization. In the face of great scarcity, the resourceful people of Neolandia have developed a rich culture or trade and barter, while still maintaining a massive, well-trained army.",
+        "wikiPageLink": "https://dragonprince.fandom.com/wiki/The_Human_Kingdoms#Neolandia",
+        "image": "images/Neolandia.jpg",
+        "bannerImage": "images/NeolandiaFlag.png"
+    },
+    "landDelBar": {
+        "title": "Del Bar",
+        "description": "The kingdom of Del Bar has forged a home among the freezing valleys and crags of the western mountains. Renowned for their skills in hunting and smithing, the people of Del Bar relish a simple and practical life close to nature.",
+        "wikiPageLink": "https://dragonprince.fandom.com/wiki/The_Human_Kingdoms#Del_Bar",
+        "image": "images/DelBar.jpg",
+        "bannerImage": "images/DelBarFlag.png"
+    },
+    "landEvenere": {
+        "title": "Evenere",
+        "description": "Cut off from the other kingdoms by any avenue other than ships, the people of Evenere live fiercely independent lives. Evenere's isolation from the helping hands of neighbors has made it fiercely independent, so much so that the intense bonds between its citizens are often misinterpreted as fear and mistrust of foreigners.",
+        "wikiPageLink": "https://dragonprince.fandom.com/wiki/The_Human_Kingdoms#Evenere",
+        "image": "images/Evenere.jpg",
+        "bannerImage": "images/EvenereFlag.png"
+    },
+    "landXadia": {
+        "title": "Xadia",
+        "description": "Xadia is the land comprising the eastern part of the continent. It is a land rich in magic. Everything in Xadia bears a connection to one of the six Primal Sources, every creature, plant, tree, even the earth itself. The most intelligent of the magical creatures, the elves and the dragons, rule over the harmonious races of Xadia. Each elven race has their own territory inside Xadia.",
+        "wikiPageLink": "https://dragonprince.fandom.com/wiki/Xadia",
+        "image": "images/Xadia.jpg"
+    },
+    "kingEvenere": {
+        "title": "Fareeda",
+        "description": "Fareeda was the Queen of Evenere, a nation off the western coast of Katolis. While Evenere itself is mostly swampland plagued by dreary weather, Fareeda herself was warm and pleasant. She was killed by Moonshadow Elf Assassins resurrected by Viren, as part of a plan to goad the Human Kingdoms into waging war against Xadia.",
+        "wikiPageLink": "https://dragonprince.fandom.com/wiki/Fareeda",
+        "image": "images/Evenere.jpg"
+    },
+    "kingDuren": {
+        "title": "Aanya",
+        "description": "Aanya is the Queen of Duren and the daughter of Queens Annika and Neha. She inherited the throne at a young age following the deaths of her mothers.",
+        "wikiPageLink": "https://dragonprince.fandom.com/wiki/Aanya",
+        "image": "images/QueenAanya.jpg"
+    },
+    "kingNeolandia": {
+        "title": "Kasef",
+        "description": "Kasef was the crown prince of Neolandia and the eldest son of King Ahling. When his father was critically injured by elven assassins resurrected by Viren, Kasef took control of the kingdom and its ferocious army with only one goal: war. He was one of the many humans who Viren enhanced with dark magic before he was killed by Aanya during the battle at the Storm Spire.",
+        "wikiPageLink": "https://dragonprince.fandom.com/wiki/Kasef",
+        "image": "images/KingKasef.jpg"
+    },
+    "kingDelBar": {
+        "title": "Florian",
+        "description": "Florian was the king of the rugged mountains of Del Bar. He was killed by Moonshadow Elf Assassins resurrected by Viren, as part of a plan to goad the Human Kingdoms into waging war against Xadia.",
+        "wikiPageLink": "https://dragonprince.fandom.com/wiki/Florian",
+        "image": "images/DelBar.jpg"
+    },
+    "kingKatolis": {
+        "title": "Harrow",
+        "description": "Harrow was the King of Katolis, the largest of the five Human Kingdoms, until his death by assassination. He was the husband of the late Queen Sarai, the father of Ezran, the stepfather of Callum, and a descendant of the Orphan Queen.",
+        "wikiPageLink": "https://dragonprince.fandom.com/wiki/Harrow",
+        "image": "images/KingHarrow.jpg"
+    },
+    "primalSourceSun": {
+        "title": "The Sun",
+        "description": "Sun magic draws from the heat and energy of the Sun. This source is at its strongest when the sun is at its highest during noon. Sun magic has a dual nature: it can conjure spells of light, growth, nurturing, and transformation — or it can call upon fire, heat, and destruction.",
+        "wikiPageLink": "https://dragonprince.fandom.com/wiki/Magic#The_Sun",
+        "image": "images/Sun.jpg",
+        "primalSourceImage": "images/PrimalSourceSun.png"
+    },
+    "primalSourceEarth": {
+        "title": "The Earth",
+        "description": "Earth magic draws on the power and energy within the land itself. This source is at its strongest deep underground. Earth magic comes from two major domains: the stone, minerals, crystals, and gems of the land, and the flora and fauna of the living world.",
+        "wikiPageLink": "https://dragonprince.fandom.com/wiki/Magic#The_Earth",
+        "image": "images/Earth.jpg",
+        "primalSourceImage": "images/PrimalSourceEarth.png"
+    },
+    "primalSourceOcean": {
+        "title": "The Ocean",
+        "description": "Ocean magic draws on the depths of the oceans and tides, and its power connects through rivers and lakes that flow back to it. This source is at its strongest at high tide. It is is associated with flexibility, transformation, flow, surface-level vs depth, navigation, and awareness. Besides water spells, it also includes ice spells.",
+        "wikiPageLink": "https://dragonprince.fandom.com/wiki/Magic#The_Ocean",
+        "image": "images/Ocean.jpg",
+        "primalSourceImage": "images/PrimalSourceOcean.png"
+    },
+    "primalSourceStars": {
+        "title": "The Stars",
+        "description": "Star magic draws on the vast and timeless power of the cosmos. Star magic is little understood, and the study of the Stars is made more difficult by the scarcity of magical creatures connected to them, including only Startouch Elves and unicorns.",
+        "wikiPageLink": "https://dragonprince.fandom.com/wiki/Magic#The_Stars",
+        "image": "images/Stars.jpg",
+        "primalSourceImage": "images/PrimalSourceStars.png"
+    },
+    "primalSourceSky": {
+        "title": "The Sky",
+        "description": "Sky magic is sometimes called \"weather magic\", though it is more than that. While sky mages can summon wind, lightning, ice, or shrouding fog, their power is not limited to the weather. It also includes magic that helps one breathe at high altitudes, and a talented sky mage can magically enhance their movement, allowing bursts of speed and leaps of great length.",
+        "wikiPageLink": "https://dragonprince.fandom.com/wiki/Magic#The_Sky",
+        "image": "images/Sky.jpg",
+        "primalSourceImage": "images/PrimalSourceSky.png"
+    },
+    "primalSourceMoon": {
+        "title": "The Moon",
+        "description": "Moon magic draws on the spirit and energy of the Moon. The Moon is cyclical in its strength, relating directly to the lunar phases. This source is at its strongest during a full moon, and its Arcanum is understanding the true nature of the relationship between appearances and reality.",
+        "wikiPageLink": "https://dragonprince.fandom.com/wiki/Magic#The_Moon",
+        "image": "images/Moon.jpg",
+        "primalSourceImage": "images/PrimalSourceMoon.png"
+    }
+}

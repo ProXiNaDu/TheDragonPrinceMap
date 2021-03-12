@@ -1,0 +1,34 @@
+.ZoomButton {
+    display: flex;
+    flex-direction: column;
+}
+.ZoomButton button {
+    margin: 1px;
+    padding: 6px 12px;
+
+    cursor: pointer;
+    border: none;
+    outline: none;
+
+    color: #eee;
+    text-shadow: 1px 1px 1px #111;
+    background: #0008;
+    box-shadow: 1px 1px 4px 0px #000;
+
+    transition: .05s ease-in-out;
+}
+.ZoomButton button:active {
+    transform: translateY(1px);
+    box-shadow: none;
+}
+.ZoomButton button:hover {
+    background: #1118;
+}
+.ZoomButton button:first-child {
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+.ZoomButton button:last-child {
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+}

@@ -1,0 +1,15 @@
+.UserInterface-overlay {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    pointer-events: none;
+}
+
+.UserInterface-overlay .ZoomButton {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    pointer-events: initial;
+}
