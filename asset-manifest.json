@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TheDragonPrinceInteractiveMap/static/css/main.50ae23fb.chunk.css",
+    "main.js": "/TheDragonPrinceInteractiveMap/static/js/main.bf7c10d8.chunk.js",
+    "main.js.map": "/TheDragonPrinceInteractiveMap/static/js/main.bf7c10d8.chunk.js.map",
+    "runtime-main.js": "/TheDragonPrinceInteractiveMap/static/js/runtime-main.e741267f.js",
+    "runtime-main.js.map": "/TheDragonPrinceInteractiveMap/static/js/runtime-main.e741267f.js.map",
+    "static/js/2.4eb081bf.chunk.js": "/TheDragonPrinceInteractiveMap/static/js/2.4eb081bf.chunk.js",
+    "static/js/2.4eb081bf.chunk.js.map": "/TheDragonPrinceInteractiveMap/static/js/2.4eb081bf.chunk.js.map",
+    "index.html": "/TheDragonPrinceInteractiveMap/index.html",
+    "static/css/main.50ae23fb.chunk.css.map": "/TheDragonPrinceInteractiveMap/static/css/main.50ae23fb.chunk.css.map",
+    "static/js/2.4eb081bf.chunk.js.LICENSE.txt": "/TheDragonPrinceInteractiveMap/static/js/2.4eb081bf.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/TheDragonPrinceInteractiveMap/static/media/StarSky.3957547f.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e741267f.js",
+    "static/js/2.4eb081bf.chunk.js",
+    "static/css/main.50ae23fb.chunk.css",
+    "static/js/main.bf7c10d8.chunk.js"
+  ]
+}
