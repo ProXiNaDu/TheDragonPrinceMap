@@ -10,6 +10,7 @@ class App extends React.Component {
 
     this.state = {
       regions: {},
+      strings: {},
       selectedRegion: null,
       zoom: 100,
     };
@@ -41,7 +42,7 @@ class App extends React.Component {
         <Map onRegionClick={openRegionInfo} zoom={this.state.zoom} />
         {this.state.regions[this.state.selectedRegion] && (
           <InfoPanel
-            info={this.state.regions[this.state.selectedRegion]}
+            info={this.getRegionInfo(this.state.regions[this.state.selectedRegion])}
             onClose={closeRegionInfo}
             loader={<Loader />}
           />
@@ -51,7 +52,16 @@ class App extends React.Component {
   }
 
   componentDidMount() {
-    fetch("regions.json", {
+    this.loadDataFromJson("regions.json", "regions");
+    this.loadDataFromJson("l10n-en.json", "strings");
+
+    setTimeout(() => {
+      this.scrollToCenter();
+    }, 200);
+  }
+
+  loadDataFromJson(filename, state) {
+    fetch(filename, {
       headers: {
         "Content-Type": "application/json",
         Accept: "application/json",
@@ -59,12 +69,19 @@ class App extends React.Component {
     })
       .then((res) => res.json())
       .then((json) => {
-        this.setState({ regions: json });
+        const result = {};
+        result[state] = json;
+        this.setState(result);
       });
+  }
 
-    setTimeout(() => {
-      this.scrollToCenter();
-    }, 200);
+  getRegionInfo(region) {
+    const regionInfo = {};
+    const regionKeys = Object.keys(region);
+    for (const key of regionKeys) {
+      regionInfo[key] = this.state.strings[region[key]];
+    }
+    return regionInfo;
   }
 
   scrollToCenter() {

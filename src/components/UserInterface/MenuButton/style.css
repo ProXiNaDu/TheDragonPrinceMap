@@ -1,0 +1,55 @@
+.MenuButton-hamburger {
+    position: relative;
+    display: flex;
+    justify-content: center;
+
+    height: 40px;
+    width: 40px;
+    border: 5px solid transparent;
+
+    border-radius: 6px;
+    background: #0008;
+    box-shadow: 1px 1px 4px 0px #000;
+
+    transition: .3s ease-in-out;
+    cursor: pointer;
+}
+.MenuButton-hamburger:hover {
+    background: #1118;
+}
+.MenuButton-bar {
+    position: absolute;
+
+    height: 4px;
+    width: 30px;
+    display: block;
+    background-color: #eee;
+    border-radius: 4px;
+
+    transition: .4s ease-in-out;
+}
+.MenuButton .MenuButton-bar:nth-of-type(1) {
+    top: 10px;
+    transition: top 0.3s ease 0.3s, transform 0.3s ease-out 0.1s;
+}
+.MenuButton .MenuButton-bar:nth-of-type(2) {
+    top: 18px;
+    transition: 0.3s ease 0.3s;
+}
+.MenuButton .MenuButton-bar:nth-of-type(3) {
+    top: 26px;
+    transition: top 0.3s ease 0.3s, transform 0.3s ease-out 0.1s;
+}
+.MenuButton_open .MenuButton-bar:nth-of-type(1) {
+    top: 18px;
+    transform: rotate(45deg);
+    transition: top 0.3s ease 0.1s, transform 0.3s ease-out 0.5s;
+}
+.MenuButton_open .MenuButton-bar:nth-of-type(2) {
+    opacity: 0;
+}
+.MenuButton_open .MenuButton-bar:nth-of-type(3) {
+    top: 18px;
+    transform: rotate(-45deg);
+    transition: top 0.3s ease 0.1s, transform 0.3s ease-out 0.5s;
+}

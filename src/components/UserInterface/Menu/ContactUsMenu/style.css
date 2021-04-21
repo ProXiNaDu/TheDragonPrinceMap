@@ -1,0 +1,145 @@
+.ContactUsMenu {
+    width: 300px;
+}
+
+.ContactUsMenu-form {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.ContactUsMenu-form-block {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin: 1.4em 0;
+}
+.ContactUsMenu-form-block input,
+.ContactUsMenu-form-block textarea {
+    border: none;
+    outline: none;
+    resize: none;
+
+    background: #0008;
+    box-shadow: 1px 1px 4px 0px #000;
+
+    transition: .15s ease-in-out;
+}
+.ContactUsMenu-form-block input:hover,
+.ContactUsMenu-form-block textarea:hover,
+.ContactUsMenu-form-block input:focus,
+.ContactUsMenu-form-block textarea:focus {
+    background: #1118;
+}
+.ContactUsMenu-form-block label {
+    position: absolute;
+    transform: translate(8px, 0);
+    user-select: none;
+    transition: .15s ease-in-out;
+}
+.ContactUsMenu-form-block input:focus + label,
+.ContactUsMenu-form-block textarea:focus + label,
+.ContactUsMenu-form-block input:valid + label,
+.ContactUsMenu-form-block textarea:valid + label {
+    transform: translate(4px, -1.5em);
+}
+
+
+.ContactUsMenu-submit {
+    margin: 0;
+    padding: 10px 20px;
+
+    font-size: 1em;
+
+    border: none;
+    outline: none;
+
+    background: #0008;
+    box-shadow: 1px 1px 4px 0px #000;
+
+    cursor: pointer;
+
+    transition: .15s ease-in-out;
+}
+.ContactUsMenu-submit:hover {
+    background: #1118;
+}
+.ContactUsMenu-submit:active {
+    transform: translateY(1px);
+    box-shadow: none;
+}
+
+
+.ContactUsMenu-or {
+    position: relative;
+    display: flex;
+    margin: 10px 0;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 1px 1px 1px #111;
+}
+.ContactUsMenu-or::before,
+.ContactUsMenu-or::after {
+    content: '';
+    position: absolute;
+    width: 40%;
+    height: 2px;
+    background: #eee;
+    box-shadow: 1px 1px 4px 0px #000;
+}
+.ContactUsMenu-or::before {
+    left: 0;
+}
+.ContactUsMenu-or::after {
+    right: 0;
+}
+
+
+.ContactUsMenu-socials {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    justify-content: space-between;
+}
+.ContactUsMenu-socials li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1 1 0;
+}
+.ContactUsMenu-socials a {
+    width: 100%;
+    height: 100%;
+    color: #eee;
+    text-align: center;
+    font-size: 1.4em;
+    line-height: 1.4em;
+    transition: .15s ease-in-out;
+}
+.ContactUsMenu-socials a:hover {
+    background: #0008;
+    box-shadow: 1px 1px 4px 0px #000;
+}
+.ContactUsMenu-social-vk:hover {
+    color: #4376a6;
+}
+.ContactUsMenu-social-discord:hover {
+    color: #7289da;
+}
+.ContactUsMenu-social-instagram:hover {
+    color: #c1558b;
+}
+.ContactUsMenu-social-telegram:hover {
+    color: #38a6db;
+}
+.ContactUsMenu-social-github:hover {
+    color: #d547eb;
+}
+
+
+@media (max-width: 300px) {
+    .ContactUsMenu {
+        width: 100%;
+    }
+}
