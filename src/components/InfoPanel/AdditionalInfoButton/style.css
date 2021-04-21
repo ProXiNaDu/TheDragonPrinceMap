@@ -1,0 +1,45 @@
+.AdditionalInfoButton {
+    position: absolute;
+    top: 0;
+    right: 21px;
+    padding: 6px;
+    
+    font-size: 14px;
+    line-height: 14px;
+    color: #eee;
+    text-shadow: 1px 1px 1px #111;
+
+    z-index: 3;
+}
+.AdditionalInfoButton i {
+    width: 13px;
+    cursor: pointer;
+}
+
+.AdditionalInfoButton-content {
+    position: absolute;
+    padding: 40px 30px;
+    width: 200px;
+
+    line-height: 1.2em;
+    text-align: justify;
+
+    background: #0009;
+    box-shadow: 1px 0px 12px 3px #000a;
+    backdrop-filter: blur(7px);
+
+    opacity: 0;
+    pointer-events: none;
+    transform: translate(-215px, 0);
+    transition: .3s ease-in-out;
+    z-index: -1;
+}
+.AdditionalInfoButton-content a {
+    color: #eee;
+}
+
+.AdditionalInfoButton:hover .AdditionalInfoButton-content {
+    opacity: 1;
+    pointer-events: initial;
+    transform: translate(-215px, -20px);
+}

@@ -5,6 +5,7 @@ import InfoImage from "./InfoImage";
 import InfoBanner from "./InfoBanner";
 import InfoPrimalSource from "./InfoPrimalSource";
 import CloseInfoPanelButton from "./CloseInfoPanelButton";
+import AdditionalInfoButton from "./AdditionalInfoButton";
 import { CSSTransition } from "react-transition-group";
 import ReadMoreButton from "./ReadMoreButton";
 import "./style.css";
@@ -50,6 +51,7 @@ class InfoPanel extends React.Component {
             }`}
           >
             <CloseInfoPanelButton onClose={this.props.onClose} />
+            <AdditionalInfoButton info={this.props.info.additionalInfo} />
             <InfoImage
               img={this.props.info.image}
               onLoaded={() => this.setState({ imageLoaded: true })}

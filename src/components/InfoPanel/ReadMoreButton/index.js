@@ -8,7 +8,7 @@ class ReadMoreButton extends React.Component {
         href={this.props.link}
         className="ReadMoreButton"
         target="_blank"
-        rel="noopener noreferrer"
+        rel="nofollow noopener noreferrer"
       >
         Read more <i className="fas fa-chevron-right"></i>
       </a>

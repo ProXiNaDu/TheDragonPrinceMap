@@ -1,0 +1,149 @@
+{
+    "landDurenTitle": "Duren",
+    "landDurenDescription": "A lush nation considered the garden of the Human Kingdoms, Duren trades their unparalleled harvests with all the other kingdoms. Rainwater and snowmelt flow down from the mountains, bringing water to countless farms in the rolling, fertile plains of Duren. As the breadbasket of the Human Kingdoms, Duren is especially at risk from attack by any vengeful neighbors in Xadia.",
+    "landDurenWikiPageLink": "https://dragonprince.fandom.com/wiki/The_Human_Kingdoms#Duren",
+    "landDurenImage": "images/Duren.jpg",
+    "landDurenBannerImage": "images/DurenFlag.png",
+
+    "landKatolisTitle": "Katolis",
+    "landKatolisDescription": "Katolis is the largest of the five Human Kingdoms, both in size and military might. Its signature colors are red and gold, and its banner bears the kingdom’s seal, the uneven towers of Katolis Castle. As Katolis shares its border with Xadia, the kingdom has a long history of conflict and war with the magical lands to the east.",
+    "landKatolisWikiPageLink": "https://dragonprince.fandom.com/wiki/Katolis",
+    "landKatolisImage": "images/Katolis.jpg",
+    "landKatolisBannerImage": "images/KatolisFlag.png",
+
+    "landNeolandiaTitle": "Neolandia",
+    "landNeolandiaDescription": "Neolandia is a land shaped like an elephant that lies in the harsh, northern desert lands of the Human Kingdoms. A constant struggle to obtain water and food has borne a resourceful yet hierarchical civilization. In the face of great scarcity, the resourceful people of Neolandia have developed a rich culture or trade and barter, while still maintaining a massive, well-trained army.",
+    "landNeolandiaWikiPageLink": "https://dragonprince.fandom.com/wiki/The_Human_Kingdoms#Neolandia",
+    "landNeolandiaImage": "images/Neolandia.jpg",
+    "landNeolandiaBannerImage": "images/NeolandiaFlag.png",
+
+    "landDelBarTitle": "Del Bar",
+    "landDelBarDescription": "The kingdom of Del Bar has forged a home among the freezing valleys and crags of the western mountains. Renowned for their skills in hunting and smithing, the people of Del Bar relish a simple and practical life close to nature.",
+    "landDelBarWikiPageLink": "https://dragonprince.fandom.com/wiki/The_Human_Kingdoms#Del_Bar",
+    "landDelBarImage": "images/DelBar.jpg",
+    "landDelBarBannerImage": "images/DelBarFlag.png",
+
+    "landEvenereTitle": "Evenere",
+    "landEvenereDescription": "Cut off from the other kingdoms by any avenue other than ships, the people of Evenere live fiercely independent lives. Evenere's isolation from the helping hands of neighbors has made it fiercely independent, so much so that the intense bonds between its citizens are often misinterpreted as fear and mistrust of foreigners.",
+    "landEvenereWikiPageLink": "https://dragonprince.fandom.com/wiki/The_Human_Kingdoms#Evenere",
+    "landEvenereImage": "images/Evenere.jpg",
+    "landEvenereBannerImage": "images/EvenereFlag.png",
+
+    "landXadiaTitle": "Xadia",
+    "landXadiaDescription": "Xadia is the land comprising the eastern part of the continent. It is a land rich in magic. Everything in Xadia bears a connection to one of the six Primal Sources, every creature, plant, tree, even the earth itself. The most intelligent of the magical creatures, the elves and the dragons, rule over the harmonious races of Xadia. Each elven race has their own territory inside Xadia.",
+    "landXadiaWikiPageLink": "https://dragonprince.fandom.com/wiki/Xadia",
+    "landXadiaImage": "images/Xadia.jpg",
+
+    "kingEvenereTitle": "Fareeda",
+    "kingEvenereDescription": "Fareeda was the Queen of Evenere, a nation off the western coast of Katolis. While Evenere itself is mostly swampland plagued by dreary weather, Fareeda herself was warm and pleasant. She was killed by Moonshadow Elf Assassins resurrected by Viren, as part of a plan to goad the Human Kingdoms into waging war against Xadia.",
+    "kingEvenereWikiPageLink": "https://dragonprince.fandom.com/wiki/Fareeda",
+    "kingEvenereImage": "images/Evenere.jpg",
+
+    "kingDurenTitle": "Aanya",
+    "kingDurenDescription": "Aanya is the Queen of Duren and the daughter of Queens Annika and Neha. She inherited the throne at a young age following the deaths of her mothers.",
+    "kingDurenWikiPageLink": "https://dragonprince.fandom.com/wiki/Aanya",
+    "kingDurenImage": "images/QueenAanya.jpg",
+
+    "kingNeolandiaTitle": "Kasef",
+    "kingNeolandiaDescription": "Kasef was the crown prince of Neolandia and the eldest son of King Ahling. When his father was critically injured by elven assassins resurrected by Viren, Kasef took control of the kingdom and its ferocious army with only one goal: war. He was one of the many humans who Viren enhanced with dark magic before he was killed by Aanya during the battle at the Storm Spire.",
+    "kingNeolandiaWikiPageLink": "https://dragonprince.fandom.com/wiki/Kasef",
+    "kingNeolandiaImage": "images/KingKasef.jpg",
+
+    "kingDelBarTitle": "Florian",
+    "kingDelBarDescription": "Florian was the king of the rugged mountains of Del Bar. He was killed by Moonshadow Elf Assassins resurrected by Viren, as part of a plan to goad the Human Kingdoms into waging war against Xadia.",
+    "kingDelBarWikiPageLink": "https://dragonprince.fandom.com/wiki/Florian",
+    "kingDelBarImage": "images/DelBar.jpg",
+
+    "kingKatolisTitle": "Harrow",
+    "kingKatolisDescription": "Harrow was the King of Katolis, the largest of the five Human Kingdoms, until his death by assassination. He was the husband of the late Queen Sarai, the father of Ezran, the stepfather of Callum, and a descendant of the Orphan Queen.",
+    "kingKatolisWikiPageLink": "https://dragonprince.fandom.com/wiki/Harrow",
+    "kingKatolisImage": "images/KingHarrow.jpg",
+
+    "primalSourceSunTitle": "The Sun",
+    "primalSourceSunDescription": "Sun magic draws from the heat and energy of the Sun. This source is at its strongest when the sun is at its highest during noon. Sun magic has a dual nature: it can conjure spells of light, growth, nurturing, and transformation — or it can call upon fire, heat, and destruction.",
+    "primalSourceSunWikiPageLink": "https://dragonprince.fandom.com/wiki/Magic#The_Sun",
+    "primalSourceSunImage": "images/Sun.jpg",
+    "primalSourceSunPrimalSourceImage": "images/PrimalSourceSun.png",
+
+    "primalSourceEarthTitle": "The Earth",
+    "primalSourceEarthDescription": "Earth magic draws on the power and energy within the land itself. This source is at its strongest deep underground. Earth magic comes from two major domains: the stone, minerals, crystals, and gems of the land, and the flora and fauna of the living world.",
+    "primalSourceEarthWikiPageLink": "https://dragonprince.fandom.com/wiki/Magic#The_Earth",
+    "primalSourceEarthImage": "images/Earth.jpg",
+    "primalSourceEarthPrimalSourceImage": "images/PrimalSourceEarth.png",
+
+    "primalSourceOceanTitle": "The Ocean",
+    "primalSourceOceanDescription": "Ocean magic draws on the depths of the oceans and tides, and its power connects through rivers and lakes that flow back to it. This source is at its strongest at high tide. It is is associated with flexibility, transformation, flow, surface-level vs depth, navigation, and awareness. Besides water spells, it also includes ice spells.",
+    "primalSourceOceanWikiPageLink": "https://dragonprince.fandom.com/wiki/Magic#The_Ocean",
+    "primalSourceOceanImage": "images/Ocean.jpg",
+    "primalSourceOceanPrimalSourceImage": "images/PrimalSourceOcean.png",
+
+    "primalSourceStarsTitle": "The Stars",
+    "primalSourceStarsDescription": "Star magic draws on the vast and timeless power of the cosmos. Star magic is little understood, and the study of the Stars is made more difficult by the scarcity of magical creatures connected to them, including only Startouch Elves and unicorns.",
+    "primalSourceStarsWikiPageLink": "https://dragonprince.fandom.com/wiki/Magic#The_Stars",
+    "primalSourceStarsImage": "images/Stars.jpg",
+    "primalSourceStarsPrimalSourceImage": "images/PrimalSourceStars.png",
+
+    "primalSourceSkyTitle": "The Sky",
+    "primalSourceSkyDescription": "Sky magic is sometimes called \"weather magic\", though it is more than that. While sky mages can summon wind, lightning, ice, or shrouding fog, their power is not limited to the weather. It also includes magic that helps one breathe at high altitudes, and a talented sky mage can magically enhance their movement, allowing bursts of speed and leaps of great length.",
+    "primalSourceSkyWikiPageLink": "https://dragonprince.fandom.com/wiki/Magic#The_Sky",
+    "primalSourceSkyImage": "images/Sky.jpg",
+    "primalSourceSkyPrimalSourceImage": "images/PrimalSourceSky.png",
+
+    "primalSourceMoonTitle": "The Moon",
+    "primalSourceMoonDescription": "Moon magic draws on the spirit and energy of the Moon. The Moon is cyclical in its strength, relating directly to the lunar phases. This source is at its strongest during a full moon, and its Arcanum is understanding the true nature of the relationship between appearances and reality.",
+    "primalSourceMoonWikiPageLink": "https://dragonprince.fandom.com/wiki/Magic#The_Moon",
+    "primalSourceMoonImage": "images/Moon.jpg",
+    "primalSourceMoonPrimalSourceImage": "images/PrimalSourceMoon.png",
+
+    "placeMidnightDesertTitle": "The Midnight Desert",
+    "placeMidnightDesertDescription": "By day, the black sands of the Midnight Desert soak up the sun's rays, subjecting travelers to terrible, terrible heat. But the night is worse: when the sun goes down, Soulfang Serpents emerge from below to suck the soul from anyone foolish enough to stray from the safety of the central oasis.",
+    "placeMidnightDesertWikiPageLink": "https://dragonprince.fandom.com/wiki/Xadia#Midnight_Desert",
+    "placeMidnightDesertImage": "images/MidnightDesert.jpg",
+
+    "placeMidnightDesertOasisTitle": "The Central Oasis",
+    "placeMidnightDesertOasisDescription": "The Wonderwall spell surrounding the oasis was created by ancient mages.",
+    "placeMidnightDesertOasisWikiPageLink": "https://dragonprince.fandom.com/wiki/Xadia#Midnight_Desert",
+    "placeMidnightDesertOasisImage": "images/MidnightDesertOasis.jpg",
+
+    "placeLuxAureaTitle": "Lux Aurea",
+    "placeLuxAureaDescription": "Lux Aurea was the capital of the Sunfire Elves and their crowning achievement. It was a gleaming city of gold that radiated beauty, pride, and military might, before it was destroyed by monstrosities spawned by the corrupted Sunforge. It currently lies in ruins.",
+    "placeLuxAureaWikiPageLink": "https://dragonprince.fandom.com/wiki/Lux_Aurea",
+    "placeLuxAureaImage": "images/LuxAurea.jpg",
+
+    "placeSilvergroveTitle": "The Silvergrove",
+    "placeSilvergroveDescription": "The Silvergrove is the home of the elusive Moonshadow Elves, hidden underneath a veil, created through a magic spell. Only a Moonshadow Elf can enter it using a special ritual.",
+    "placeSilvergroveWikiPageLink": "https://dragonprince.fandom.com/wiki/Silvergrove",
+    "placeSilvergroveImage": "images/Silvergrove.jpg",
+
+    "placeStormSpireTitle": "The Storm Spire",
+    "placeStormSpireDescription": "The Storm Spire is a needle of solid rock that pierces the clouds located inside Xadia and is home to Queen Zubeia and Prince Azymondias. It is also the Sky Nexus and thus the main power source of creatures connected to the Sky.",
+    "placeStormSpireWikiPageLink": "https://dragonprince.fandom.com/wiki/Storm_Spire",
+    "placeStormSpireImage": "images/StormSpirePeak.png",
+
+    "placeMoonstonePathTitle": "The Moonstone Path",
+    "placeMoonstonePathDescription": "The Moonstone Path is located in an area where the lava river's flow is weak. The path consists of a series of floating rocks marked with moon runes that glow when struck by moonlight. These rocks are capable of briefly withstanding enough weight to allow people to walk across them from one side of The Border to the other.",
+    "placeMoonstonePathWikiPageLink": "https://dragonprince.fandom.com/wiki/The_Border#Moonstone_Path",
+    "placeMoonstonePathImage": "images/MoonstonePath.jpg",
+
+    "placeKatolisCastleTitle": "Katolis Castle",
+    "placeKatolisCastleDescription": "Katolis Castle is home to the royal family, where King Ezran lives and rules with the help of his High Council. Inside the castle are the throne room, a library, the royal chambers, training grounds, as well as a dungeon. The castle itself stands on a rock, surrounded by a large moat and connected to the mainland through a bridge.",
+    "placeKatolisCastleWikiPageLink": "https://dragonprince.fandom.com/wiki/Katolis#Katolis_Castle",
+    "placeKatolisCastleImage": "images/KatolisCastle.jpg",
+
+    "placeCursedCalderaTitle": "The Cursed Caldera",
+    "placeCursedCalderaDescription": "The Cursed Caldera is a mountain peak located near a village. Villagers avoid it, due to rumors of it being haunted and infested with monstrous creatures. In reality, the monsters are merely harmless illusions cast by the Moonshadow Elf mage Lujanne, who uses them to keep humans away from the Moon Nexus, which is located near the peak.",
+    "placeCursedCalderaWikiPageLink": "https://dragonprince.fandom.com/wiki/Katolis#Cursed_Caldera",
+    "placeCursedCalderaImage": "images/CursedCaldera.jpg",
+
+    "placeMoonNexusTitle": "The Moon Nexus",
+    "placeMoonNexusDescription": "The Moon Nexus is a beautiful lake, located high atop the Cursed Caldera in the kingdom of Katolis. It is the main power source of the Moonshadow Elves.",
+    "placeMoonNexusWikiPageLink": "https://dragonprince.fandom.com/wiki/Moon_Nexus",
+    "placeMoonNexusImage": "images/MoonNexus.jpg",
+
+    "decorationsAzymondiasEggTitle": "Azymondias",
+    "decorationsAzymondiasEggDescription": "Azymondias is a baby Storm Dragon. He is the son of King Avizandum and Queen Zubeia, and thus the Dragon Prince himself. He was believed to be destroyed as an egg by Viren, shortly after his father was killed by Harrow, but Rayla, Callum, Ezran, and Bait discovered that he is still alive, which motivated them to return him to his mother in Xadia.",
+    "decorationsAzymondiasEggWikiPageLink": "https://dragonprince.fandom.com/wiki/Azymondias",
+    "decorationsAzymondiasEggImage": "images/AzymondiasEgg.jpg",
+
+    "copyrightWonderstormInfo": "This file is copyrighted by <a target='_blank' rel='nofollow noopener noreferrer' href='https://wonderstorm.net/'>Wonderstorm</a> or associates. It will be used in a way that qualifies as fair use under US copyright law."
+}

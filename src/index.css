@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap");
 
 html,
 body,
@@ -10,6 +10,14 @@ body,
 body {
   background: url("./StarSky.gif");
 
+  color: #eee;
+  text-shadow: 1px 1px 1px #111;
+
+  font-family: "Poppins", sans-serif;
+}
+button,
+input,
+textarea {
   color: #eee;
   text-shadow: 1px 1px 1px #111;
 

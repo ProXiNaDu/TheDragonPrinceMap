@@ -10,8 +10,10 @@
     cursor: pointer;
     color: #eee;
     text-shadow: 1px 1px 1px #111;
+    font-size: 14px;
+    line-height: 14px;
 
-    z-index: 3;
+    z-index: 4;
 }
 .CloseInfoPanelButton i {
     width: 13px;
