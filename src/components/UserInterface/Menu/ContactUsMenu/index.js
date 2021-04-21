@@ -77,7 +77,7 @@ class ContactUsMenu extends React.Component {
               href="https://vk.com/proxinadu"
               className="ContactUsMenu-social-vk"
             >
-              <i class="fab fa-vk"></i>
+              <i className="fab fa-vk"></i>
             </a>
           </li>
           <li>
@@ -87,7 +87,7 @@ class ContactUsMenu extends React.Component {
               href="https://discordapp.com/users/269438112210485248/"
               className="ContactUsMenu-social-discord"
             >
-              <i class="fab fa-discord"></i>
+              <i className="fab fa-discord"></i>
             </a>
           </li>
           <li>
@@ -97,7 +97,7 @@ class ContactUsMenu extends React.Component {
               href="https://www.instagram.com/belarusiandungeonmaster/"
               className="ContactUsMenu-social-instagram"
             >
-              <i class="fab fa-instagram"></i>
+              <i className="fab fa-instagram"></i>
             </a>
           </li>
           <li>
@@ -107,7 +107,7 @@ class ContactUsMenu extends React.Component {
               href="https://t.me/Proxinadu"
               className="ContactUsMenu-social-telegram"
             >
-              <i class="fab fa-telegram-plane"></i>
+              <i className="fab fa-telegram-plane"></i>
             </a>
           </li>
           <li>
@@ -117,7 +117,7 @@ class ContactUsMenu extends React.Component {
               href="https://github.com/ProXiNaDu"
               className="ContactUsMenu-social-github"
             >
-              <i class="fab fa-github"></i>
+              <i className="fab fa-github"></i>
             </a>
           </li>
         </ul>
