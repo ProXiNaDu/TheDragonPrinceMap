@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/TheDragonPrinceMap/static/css/main.d013e6d9.chunk.css",
-    "main.js": "/TheDragonPrinceMap/static/js/main.ed6c3fe7.chunk.js",
-    "main.js.map": "/TheDragonPrinceMap/static/js/main.ed6c3fe7.chunk.js.map",
+    "main.css": "/TheDragonPrinceMap/static/css/main.8e72e491.chunk.css",
+    "main.js": "/TheDragonPrinceMap/static/js/main.2370db3c.chunk.js",
+    "main.js.map": "/TheDragonPrinceMap/static/js/main.2370db3c.chunk.js.map",
     "runtime-main.js": "/TheDragonPrinceMap/static/js/runtime-main.33de2887.js",
     "runtime-main.js.map": "/TheDragonPrinceMap/static/js/runtime-main.33de2887.js.map",
     "static/js/2.846bb697.chunk.js": "/TheDragonPrinceMap/static/js/2.846bb697.chunk.js",
     "static/js/2.846bb697.chunk.js.map": "/TheDragonPrinceMap/static/js/2.846bb697.chunk.js.map",
     "index.html": "/TheDragonPrinceMap/index.html",
-    "static/css/main.d013e6d9.chunk.css.map": "/TheDragonPrinceMap/static/css/main.d013e6d9.chunk.css.map",
+    "static/css/main.8e72e491.chunk.css.map": "/TheDragonPrinceMap/static/css/main.8e72e491.chunk.css.map",
     "static/js/2.846bb697.chunk.js.LICENSE.txt": "/TheDragonPrinceMap/static/js/2.846bb697.chunk.js.LICENSE.txt",
     "static/media/index.css": "/TheDragonPrinceMap/static/media/StarSky.3957547f.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.33de2887.js",
     "static/js/2.846bb697.chunk.js",
-    "static/css/main.d013e6d9.chunk.css",
-    "static/js/main.ed6c3fe7.chunk.js"
+    "static/css/main.8e72e491.chunk.css",
+    "static/js/main.2370db3c.chunk.js"
   ]
 }
