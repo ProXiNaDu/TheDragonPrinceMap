@@ -62,7 +62,7 @@
         height: 100%;
         box-shadow: none;
 
-        background: #222;
+        background: #0e0e0e;
     }
 
     .InfoPanel-content .ReadMoreButton {
@@ -75,6 +75,7 @@
 
         width: 100%;
     
+        background: transparent;
         box-shadow: none;
         backdrop-filter: none;
 
@@ -87,5 +88,50 @@
     
     .InfoPanel-content .InfoDescription-indent::before {
         width: 85px;
+    }
+
+    @media (orientation: landscape) {
+        .InfoPanel {
+            overflow-y: scroll;
+        }
+        .InfoPanel-content {
+            overflow-y: initial;
+            height: auto;
+        }
+
+        .InfoTitle {
+            margin: 0 0 -65px 0;
+            padding: 20px 20px 40px 100%;
+
+            text-align: right;
+            font-size: 1.6em;
+            white-space: nowrap;
+
+            background: #0009;
+            box-shadow: 1px 0px 12px 3px #000a;
+            backdrop-filter: blur(7px);
+            
+            transform: translateY(-95px);
+            z-index: 3;
+        }
+        .InfoTitle::before {
+            left: unset;
+            margin-bottom: 40px;
+        }
+
+        .InfoPanel-content .InfoDescription {
+            padding: 0 30px 0 30px;
+            
+        }
+        .InfoPanel-content .InfoDescription-indent {
+            padding: 0 30px 0 115px;
+        }
+        .InfoPanel-content .InfoDescription-indent::before {
+            display: none;
+        }
+
+        .InfoPanel-content .ReadMoreButton {
+            align-self: flex-end;
+        }
     }
 }
