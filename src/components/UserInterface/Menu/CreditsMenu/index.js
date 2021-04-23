@@ -17,7 +17,17 @@ class CreditsMenu extends React.Component {
           or associates. They will be used in a way that qualifies as fair use
           under US copyright law.
         </p>
-        <p>Special thanks to The Dragon Prince Community, who helped with collecting information and screenshots for this map.</p>
+        <p>
+          Every non-free image is used on this website under the auspices of the
+          fair use doctrine of the United States Fair use law. This means that
+          they are used for informational/educational purposes, meant to
+          identify the subject of an article and to illustrate something
+          directly relevant to the text in its immediate vicinity.
+        </p>
+        <p>
+          Special thanks to The Dragon Prince Community, who helped with
+          collecting information and screenshots for this map.
+        </p>
         <p>
           This interactive map made by{" "}
           <a
