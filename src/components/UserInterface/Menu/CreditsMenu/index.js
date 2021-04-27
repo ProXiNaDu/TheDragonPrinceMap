@@ -38,17 +38,6 @@ class CreditsMenu extends React.Component {
             Proxinadu
           </a>
         </p>
-        <p>
-          Copyright © 2021{" "}
-          <a
-            target="_blank"
-            rel="nofollow noopener noreferrer"
-            href="https://github.com/ProXiNaDu"
-          >
-            Proxinadu
-          </a>
-          . All rights reserved.
-        </p>
       </div>
     );
   }
